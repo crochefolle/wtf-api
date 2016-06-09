@@ -1,2 +1,3 @@
 # wtf-api
-Had to re-create my github account, need a project...
+
+Why Think Fast API
