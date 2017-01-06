@@ -1,3 +1,3 @@
 # wtf-api
 
-Why Think Fast API
+This is the "Wow! Think Fast" API
